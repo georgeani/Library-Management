@@ -1,6 +1,6 @@
 # Library Management
 
-This was my first full Python Project. It is a library management software that uses a .txt files as a databasse. It does not utilize a SQL database at all.
+This was my first full Python Project. It is a library management software that uses a .txt files as a databasse. It does not utilize a SQL database at all. It was created as the coursework for my Introduction to programming module.
 
 ## General Information
 

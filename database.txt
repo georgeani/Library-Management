@@ -1,0 +1,15 @@
+ ID | Title | Author | Purchase Date | Member ID
+  6 | Book2 |  booker |  23-11-2019 | 0
+  7 | Neuromancer |  William Gibson |  24-11-2019 | 0
+  2 | Dracula |  Bram Stoker |  17-11-2019 | 0
+  10 | Book4 |  booker |  09-12-2019 | 0
+  11 | Book3 | booker | 11-12-2019 | 0
+  12 | Book5 | booker | 11-12-2019 | 0
+  13 | Test2 | Tester  | 12-12-2019 | 0
+  14 | Test3 | Tester  | 12-12-2019 | 0
+  15 | Test4 | Tester  | 12-12-2019 | 0
+  16 | Test5 | Tester  | 12-12-2019 | 0
+  4 | Count Zero |  William Gibson |  21-11-2019 | 0
+  17 | Test6 | Tester  | 12-12-2019 | 0
+  1 | The Art of War |  Sun Tzu |  17-11-2019 | 0
+  5 | Neuromancer |  William Gibson |  22-11-2019 | 0

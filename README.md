@@ -2,6 +2,8 @@
 
 This was my first full Python Project. It is a library management software that uses a .txt files as a databasse. It does not utilize a SQL database at all. It was created as the coursework for my Introduction to programming module.
 
+The system contains the menu.py file that is the GUI created to interact with the system. It should be noted that for the system to work the user should maintain the Text iles in the same location with the Python files. This system was coded using Python 3.7.
+
 ## General Information
 
 This library Management System was created to be as easy to use as possible by the end-user.
